@@ -25,8 +25,8 @@ This project contains implementations for merging dictionaries and validating ne
 ## Installation
 
 1. Clone this repository:   ```
-   git clone <repository-url>
-   cd SetsDictionaries   ```
+   git clone https://github.com/Shilpaj1994/SerializedDictionaries.git
+   ```
 
 2. Create a virtual environment (optional but recommended):   ```
    python -m venv venv

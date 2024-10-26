@@ -27,4 +27,4 @@ jobs:
         pylint $(git ls-files '*.py') --fail-under=8.0 --disable=trailing-whitespace --ignore-patterns=test_.*?py 
     - name: Run pytest
       run: |
-        pytest
+        pytest -vsk .
